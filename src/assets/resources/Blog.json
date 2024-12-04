@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Building Modern Web Apps with React and Tailwind",
+    "slug": "building-modern-web-apps-with-react-and-tailwind",
+    "excerpt": "Learn how to combine React and Tailwind CSS to create beautiful, responsive web applications with modern best practices and optimizations.",
+    "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?q=80&w=2070", 
+    "date": "2024-01-15",
+    "category": "Development",
+    "tags": ["React", "Tailwind CSS", "Web Development"],
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Mastering State Management in React Applications",
+    "slug": "mastering-state-management-in-react-applications",
+    "excerpt": "Deep dive into different state management approaches in React - from useState and useContext to Redux and Zustand.",
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2070",
+    "date": "2024-01-08", 
+    "category": "Development",
+    "tags": ["React", "State Management", "Redux"],
+    "featured": false
+  },
+  {
+    "id": 3,
+    "title": "Creating Stunning UI Animations with Framer Motion",
+    "slug": "creating-stunning-ui-animations-with-framer-motion",
+    "excerpt": "Learn how to add beautiful animations and transitions to your React applications using the Framer Motion library.",
+    "image": "https://images.unsplash.com/photo-1550439062-609e1531270e?q=80&w=2070",
+    "date": "2023-12-28",
+    "category": "Design",
+    "tags": ["Animation", "Framer Motion", "UI/UX"],
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "The Future of Web Development: What's Coming in 2024",
+    "slug": "the-future-of-web-development-whats-coming-in-2024",
+    "excerpt": "Exploring upcoming trends, technologies and best practices that will shape web development in 2024 and beyond.",
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?q=80&w=1974",
+    "date": "2023-12-20",
+    "category": "Technology",
+    "tags": ["Web Development", "Trends", "Future Tech"],
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Optimizing React Performance: A Complete Guide",
+    "slug": "optimizing-react-performance-a-complete-guide",
+    "excerpt": "Learn advanced techniques for optimizing React applications, from code splitting to memoization and virtual DOM optimization.",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=2069",
+    "date": "2023-12-15",
+    "category": "Development",
+    "tags": ["React", "Performance", "Optimization"],
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Building Accessible Web Applications",
+    "slug": "building-accessible-web-applications",
+    "excerpt": "A comprehensive guide to implementing web accessibility standards and creating inclusive user experiences.",
+    "image": "https://images.unsplash.com/photo-1551650975-87deedd944c3?q=80&w=1974",
+    "date": "2023-12-10",
+    "category": "Development",
+    "tags": ["Accessibility", "Web Development", "UI/UX"],
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Modern CSS Techniques and Best Practices",
+    "slug": "modern-css-techniques-and-best-practices",
+    "excerpt": "Exploring modern CSS features, methodologies, and best practices for creating maintainable stylesheets.",
+    "image": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?q=80&w=2071",
+    "date": "2023-12-05",
+    "category": "Development",
+    "tags": ["CSS", "Web Development", "Styling"],
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Getting Started with TypeScript in React",
+    "slug": "getting-started-with-typescript-in-react",
+    "excerpt": "A beginner-friendly guide to implementing TypeScript in React applications for better type safety and developer experience.",
+    "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072",
+    "date": "2023-11-28",
+    "category": "Development",
+    "tags": ["TypeScript", "React", "JavaScript"],
+    "featured": true
+  },
+  {
+    "id": 9,
+    "title": "Mastering Git and GitHub for Team Collaboration",
+    "slug": "mastering-git-and-github-for-team-collaboration",
+    "excerpt": "Essential Git workflows and GitHub features that every developer should know for effective team collaboration.",
+    "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?q=80&w=2070",
+    "date": "2023-11-20",
+    "category": "Development",
+    "tags": ["Git", "GitHub", "Version Control"],
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Building RESTful APIs with Node.js and Express",
+    "slug": "building-restful-apis-with-nodejs-and-express",
+    "excerpt": "A step-by-step guide to creating scalable and secure REST APIs using Node.js and Express framework.",
+    "image": "https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?q=80&w=2074",
+    "date": "2023-11-15",
+    "category": "Backend",
+    "tags": ["Node.js", "Express", "API Development"],
+    "featured": true
+  },
+  {
+    "id": 11,
+    "title": "Introduction to Docker for Web Developers",
+    "slug": "introduction-to-docker-for-web-developers",
+    "excerpt": "Learn how to containerize your web applications and streamline development workflows using Docker.",
+    "image": "https://images.unsplash.com/photo-1605745341112-85968b19335b?q=80&w=2071",
+    "date": "2023-11-10",
+    "category": "DevOps",
+    "tags": ["Docker", "Containerization", "DevOps"],
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "Advanced CSS Grid Techniques",
+    "slug": "advanced-css-grid-techniques",
+    "excerpt": "Master complex layouts and responsive design patterns using CSS Grid with practical examples.",
+    "image": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?q=80&w=2070",
+    "date": "2023-11-05",
+    "category": "Development",
+    "tags": ["CSS Grid", "Web Development", "Responsive Design"],
+    "featured": true
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "title": "Nexus Portfolio",
+    "description": "A modern portfolio website built with React and Framer Motion featuring cyberpunk aesthetics and smooth animations",
+    "category": "Web Apps",
+    "technologies": ["React", "Tailwind CSS", "Framer Motion", "Vite"],
+    "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://nexus-portfolio.vercel.app",
+    "codeLink": "https://github.com/username/nexus-portfolio",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Neural Chat",
+    "description": "Real-time chat application with AI-powered features and cyberpunk-inspired UI design",
+    "category": "Web Apps", 
+    "technologies": ["Next.js", "Socket.io", "OpenAI API", "MongoDB"],
+    "image": "https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://neural-chat.vercel.app",
+    "codeLink": "https://github.com/username/neural-chat",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Cyber Dashboard",
+    "description": "Administrative dashboard with data visualization and real-time analytics",
+    "category": "Web Apps",
+    "technologies": ["React", "D3.js", "Node.js", "Express"],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://cyber-dashboard.herokuapp.com",
+    "codeLink": "https://github.com/username/cyber-dashboard",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "Neural Network Visualizer",
+    "description": "Interactive tool for visualizing and understanding neural network architectures",
+    "category": "Tools",
+    "technologies": ["JavaScript", "Three.js", "TensorFlow.js"],
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1034&q=80",
+    "demoLink": "https://nn-visualizer.netlify.app",
+    "codeLink": "https://github.com/username/nn-visualizer",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "title": "Neon UI Kit",
+    "description": "A comprehensive UI component library with cyberpunk-inspired design system",
+    "category": "Designs",
+    "technologies": ["React", "Storybook", "Styled Components"],
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://neon-ui.design",
+    "codeLink": "https://github.com/username/neon-ui",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Code Scanner",
+    "description": "AI-powered code analysis tool for identifying potential bugs and security vulnerabilities",
+    "category": "Tools",
+    "technologies": ["Python", "TensorFlow", "FastAPI"],
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://code-scanner.dev",
+    "codeLink": "https://github.com/username/code-scanner",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Quantum Calculator",
+    "description": "Advanced scientific calculator with quantum computing simulations",
+    "category": "Tools",
+    "technologies": ["React", "Qiskit", "WebAssembly"],
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://quantum-calculator.app",
+    "codeLink": "https://github.com/username/quantum-calculator",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Cyber City",
+    "description": "3D cyberpunk city generator with procedural modeling",
+    "category": "Designs",
+    "technologies": ["Three.js", "WebGL", "Blender"],
+    "image": "https://images.unsplash.com/photo-1515705576963-95cad62945b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://cyber-city-gen.web.app",
+    "codeLink": "https://github.com/username/cyber-city",
+    "featured": true
+  },
+  {
+    "id": 9,
+    "title": "Neural Paint",
+    "description": "AI-assisted digital art creation tool with style transfer capabilities",
+    "category": "Tools",
+    "technologies": ["React", "TensorFlow.js", "Canvas API"],
+    "image": "https://images.unsplash.com/photo-1549490349-8643362247b5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://neural-paint.art",
+    "codeLink": "https://github.com/username/neural-paint",
+    "featured": false
+  },
+  {
+    "id": 10,
+    "title": "Data Mesh",
+    "description": "Distributed data visualization platform for large-scale datasets",
+    "category": "Web Apps",
+    "technologies": ["Vue.js", "GraphQL", "D3.js"],
+    "image": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1176&q=80",
+    "demoLink": "https://data-mesh.cloud",
+    "codeLink": "https://github.com/username/data-mesh",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "Neon Icons",
+    "description": "Customizable icon set with cyberpunk aesthetics and animation options",
+    "category": "Designs",
+    "technologies": ["SVG", "CSS", "JavaScript"],
+    "image": "https://images.unsplash.com/photo-1550063873-ab792950096b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://neon-icons.design",
+    "codeLink": "https://github.com/username/neon-icons",
+    "featured": false
+  },
+  {
+    "id": 12,
+    "title": "Code Forge",
+    "description": "Collaborative online IDE with real-time code sharing and execution",
+    "category": "Web Apps",
+    "technologies": ["React", "Monaco Editor", "WebSocket"],
+    "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "demoLink": "https://code-forge.dev",
+    "codeLink": "https://github.com/username/code-forge",
+    "featured": true
+  },
+  {
+    "id": 13,
+    "title": "Quantum Patterns",
+    "description": "Generative art platform using quantum algorithms for pattern creation",
+    "category": "Designs",
+    "technologies": ["P5.js", "Qiskit", "Web Workers"],
+    "image": "https://images.unsplash.com/photo-1620641788421-7a1c342ea42e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+    "demoLink": "https://quantum-patterns.art",
+    "codeLink": "https://github.com/username/quantum-patterns",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Neural Audio",
+    "description": "Web-based audio processing tool with AI-powered effects",
+    "category": "Tools",
+    "technologies": ["Web Audio API", "TensorFlow.js", "React"],
+    "image": "https://images.unsplash.com/photo-1558862107-d49ef2a04d72?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://neural-audio.app",
+    "codeLink": "https://github.com/username/neural-audio",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "Cyber Security Dashboard",
+    "description": "Real-time network security monitoring and threat detection platform",
+    "category": "Web Apps",
+    "technologies": ["Angular", "Node.js", "Socket.io"],
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://cyber-security.defense",
+    "codeLink": "https://github.com/username/security-dashboard",
+    "featured": true
+  },
+  {
+    "id": 16,
+    "title": "Hologram UI",
+    "description": "Futuristic UI component library with holographic effects",
+    "category": "Designs",
+    "technologies": ["React", "WebGL", "GSAP"],
+    "image": "https://images.unsplash.com/photo-1506729623306-b5a934d88b53?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+    "demoLink": "https://hologram-ui.design",
+    "codeLink": "https://github.com/username/hologram-ui",
+    "featured": false
+  }
+]
